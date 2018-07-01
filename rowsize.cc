@@ -39,6 +39,9 @@
 std::vector<struct model> models = { 
 //  model         ro.product.name     board            platform  ion  row      generic name 
 
+// Snapdragon 835
+   {"Pixel 2 XL", "taimen",           "MSM8998",       "MSM8998", 21, K(64),   "Google Pixel 2 XL"},
+   
 // Snapdragon 820
 // {"SM-G935T",  "hero2qltetmo",     "msm8996",       "msm8996", 21,  0,      "Samsung Galaxy S7 Edge"},
 // {"SAMSUNG-SM-G930A", "heroqlteuc","MSM8996",       "msm8996", 21,  0,      "Samsung Galaxy S7"},
